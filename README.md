@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TissueLint
+- 👋 Hello, my name is Peyton
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python
 <!---
